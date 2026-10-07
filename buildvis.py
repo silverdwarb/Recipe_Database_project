@@ -3,7 +3,7 @@ import re
 from collections import Counter
 
 print("Loading data...")
-df = pd.read_csv('cookwell_recipes.csv')
+df = pd.read_csv('cookwell_recipes_fixed.csv')
 
 ingredient_counts = Counter()
 

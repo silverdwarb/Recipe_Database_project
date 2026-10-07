@@ -1,38 +1,31 @@
 import pandas as pd
 import networkx as nx
 from pyvis.network import Network
-import re
 
-print("Loading data...")
-df = pd.read_csv('cookwell_recipes.csv')
+print("Loading cleaned data...")
+# Read the pristine data we just created
+df = pd.read_csv('cleaned_recipes.csv')
 
 G = nx.Graph()
 
 print("Building the ingredient web...")
 for index, row in df.iterrows():
-    ingredients_str = str(row['Ingredients'])
-    ingredients = ingredients_str.split(' | ')
+    # The ingredients are already perfectly clean and separated by ' | '
+    ingredients = str(row['ingredients']).split(' | ')
     
-    cleaned_ingredients = []
+    # 1. Add Nodes (Ingredients) and count their frequency
     for ing in ingredients:
-        # Remove numbers, extra punctuation, and lowercase
-        clean = re.sub(r'\d+', '', ing).strip().lower().rstrip(',')
-        # Remove common filler words that ruin the graph
-        if clean and len(clean) > 2 and clean not in ['optional', 'serving', 'garnish', 'water']: 
-            cleaned_ingredients.append(clean)
-            
-    cleaned_ingredients = list(set(cleaned_ingredients))
-    
-    for ing in cleaned_ingredients:
         if G.has_node(ing):
             G.nodes[ing]['weight'] += 1
         else:
             G.add_node(ing, weight=1)
             
-    for i in range(len(cleaned_ingredients)):
-        for j in range(i + 1, len(cleaned_ingredients)):
-            ing1 = cleaned_ingredients[i]
-            ing2 = cleaned_ingredients[j]
+    # 2. Add Edges (Connections) between ingredients in the same recipe
+    for i in range(len(ingredients)):
+        for j in range(i + 1, len(ingredients)):
+            ing1 = ingredients[i]
+            ing2 = ingredients[j]
+            
             if G.has_edge(ing1, ing2):
                 G[ing1][ing2]['weight'] += 1
             else:
@@ -45,13 +38,15 @@ print(f"Graph built! {G.number_of_nodes()} ingredients, {G.number_of_edges()} co
 # ==========================================
 print("Rendering interactive galaxy...")
 
+# Dark space theme
 net = Network(height='100vh', width='100%', bgcolor='#121212', font_color='white')
 
-# Adjusted physics for better stability
+# The "gravity" physics engine
 net.barnes_hut(gravity=-2000, central_gravity=0.3, spring_length=100, spring_strength=0.05, damping=0.09)
 
-# FIX 2: Only add nodes that appear in AT LEAST 3 recipes
-MIN_APPEARANCES = 10
+# Only graph ingredients that appear in at least 10 recipes
+# (You can change this to 15 or 20 if your browser struggles)
+MIN_APPEARANCES = 10 
 
 valid_nodes = set()
 
@@ -61,21 +56,27 @@ for node in G.nodes():
     if weight < MIN_APPEARANCES:
         continue 
         
-    size = 10 + (weight * 2) 
+    # Scale the bubble size based on popularity
+    size = 10 + (weight * 0.5) 
     net.add_node(node, label=node, size=size, title=f"Used in {weight} recipes", color='#00d2ff')
-    
-    # Add the node name to our valid list
     valid_nodes.add(node) 
 
-# Add edges, but only if BOTH ingredients are in our valid list
+MIN_CONNECTIONS = 100
+
+# Draw the connecting lines
 for edge in G.edges():
-    weight = G[edge[0]][edge[1]]['weight']
-    
-    # FIX: Check our set instead of using net.has_node()
     if edge[0] in valid_nodes and edge[1] in valid_nodes:
+        weight = G[edge[0]][edge[1]]['weight']
+        # Thicker lines for ingredients that frequently appear together
         net.add_edge(edge[0], edge[1], value=weight, color='#555555')
 
-# local=True forces pyvis to save the JS library inside the HTML file!
+        # THE FIX: Skip weak connections
+        if weight < MIN_CONNECTIONS:
+            continue
+            
+        net.add_edge(edge[0], edge[1], value=weight, color='#555555')        
+
+# Save it as a standalone HTML file
 net.show('index.html', notebook=False, local=True)
 
-print("SUCCESS! Open 'index.html' in your web browser.")
+print("SUCCESS! Open 'index.html' in your web browser to see your galaxy.")
