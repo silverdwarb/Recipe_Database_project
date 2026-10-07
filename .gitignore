@@ -1,7 +1,6 @@
 # Ignore virtual environments
 venv/
 env/
-lib/
 
 # Ignore generated data files (keep your local CSV safe)
 *.csv
