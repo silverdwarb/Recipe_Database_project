@@ -41,16 +41,50 @@ print("Rendering interactive galaxy...")
 # Dark space theme
 net = Network(height='100vh', width='100%', bgcolor='#121212', font_color='white')
 
-# The "gravity" physics engine
-net.barnes_hut(gravity=-2000, central_gravity=0.3, spring_length=100, spring_strength=0.05, damping=0.09)
+# ==========================================
+# MASTER OPTIONS BLOCK
+# ==========================================
+options = """
+{
+    "edges": {
+        "smooth": false
+    },
+    "physics": {
+        "barnesHut": {
+            "gravitationalConstant": -2000,
+            "centralGravity": 0.3,
+            "springLength": 600,
+            "springConstant": 0.04,
+            "damping": 0.7,
+            "avoidOverlap": 1
+        },
+        "stabilization": {
+            "enabled": true,
+            "iterations": 1000,
+            "updateInterval": 25
+        }
+    }
+}
+"""
+net.set_options(options)
 
-# Only graph ingredients that appear in at least 10 recipes
-# (You can change this to 15 or 20 if your browser struggles)
-MIN_APPEARANCES = 10 
+# Only graph ingredients that appear in at least 5 recipes
+MIN_APPEARANCES = 5 
+
+# ==========================================
+# THE EXCLUDE LIST
+# ==========================================
+# We hide these from the graph to prevent the "black hole" effect.
+EXCLUDE_INGREDIENTS = {'salt', 'water'}
+# ==========================================
 
 valid_nodes = set()
 
 for node in G.nodes():
+    # 1. Skip if it's on our exclude list
+    if node in EXCLUDE_INGREDIENTS:
+        continue
+        
     weight = G.nodes[node]['weight']
     
     if weight < MIN_APPEARANCES:
@@ -61,20 +95,21 @@ for node in G.nodes():
     net.add_node(node, label=node, size=size, title=f"Used in {weight} recipes", color='#00d2ff')
     valid_nodes.add(node) 
 
-MIN_CONNECTIONS = 100
+MIN_CONNECTIONS = 3
 
 # Draw the connecting lines
 for edge in G.edges():
+    # 2. Skip the line if EITHER ingredient is on the exclude list
+    if edge[0] in EXCLUDE_INGREDIENTS or edge[1] in EXCLUDE_INGREDIENTS:
+        continue
+        
     if edge[0] in valid_nodes and edge[1] in valid_nodes:
         weight = G[edge[0]][edge[1]]['weight']
-        # Thicker lines for ingredients that frequently appear together
-        net.add_edge(edge[0], edge[1], value=weight, color='#555555')
-
-        # THE FIX: Skip weak connections
+        
         if weight < MIN_CONNECTIONS:
             continue
             
-        net.add_edge(edge[0], edge[1], value=weight, color='#555555')        
+        net.add_edge(edge[0], edge[1], value=weight, color='#555555')
 
 # Save it as a standalone HTML file
 net.show('index.html', notebook=False, local=True)
