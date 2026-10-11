@@ -35,11 +35,11 @@ Raw web data is notoriously messy. This phase utilizes a rigorous, multi-pass cl
 ## 📊 Visualizations & Findings
 
 ### The "Hairball" Effect
-![Hairball Graph](images/Hairy-ball-effect.png)  
+![Hairball Graph](Images/Hairy-ball-effect.png)  
 *Initial render showing the "hairball" effect of excessive connections and the gravitational "black hole" pull of universal ingredients like Salt and Water.*
 
 ### The Categorized Galaxy
-![Categorized Graph](images/messy-color.png)  
+![Categorized Graph](Images/messy-color.png)  
 *Final render with Salt/Water excluded, nodes colored by macro-category, straight-line edges, and connections colored by the dominant ingredient. This reveals distinct culinary clusters.*
 
 ## 🛠️ Tech Stack
