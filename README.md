@@ -1,6 +1,6 @@
 # Culinary Network Analysis: Decoding Recipe Architecture
 
-> **Project Status:** V1.0 Complete  
+> **Project Status:** V0.9 Beta  
 > **Primary Data Source:** Cookwell.com (Scraped 10/1/2026; site architecture has since changed)
 
 ## 📖 Project Overview
@@ -49,6 +49,26 @@ Raw web data is notoriously messy. This phase utilizes a rigorous, multi-pass cl
 * **Network Analysis:** NetworkX
 * **Visualization:** Pyvis (Vis.js)
 * **Version Control:** Git / GitHub
+
+## 🔮 Future Expansion & Roadmap
+This project is designed to be modular and scalable. Future development is structured into distinct version releases:
+
+### ✅ Version 1.0: The Adjustable Cookwell Database (Current)
+- [x] Build end-to-end scraping and cleaning pipeline.
+- [x] Implement macro-categorization and color-coded network visualization.
+- [x] Optimize physics engine to eliminate the "hairball" effect.
+- [ ] **Pending:** Implement a JavaScript-driven UI dropdown menu to allow users to dynamically toggle specific ingredient categories on/off, isolating specific "flavor webs" or "protein clusters."
+
+### 🚧 Version 2.0: Author-Centric Analysis (Serious Eats)
+- [ ] Expand the scraping pipeline to ingest data from high-end culinary sites (e.g., *Serious Eats*).
+- [ ] Extract and map **Author/Chef metadata** to individual recipes.
+- [ ] Build comparative network graphs to answer: *"How does Author A's flavor-bridge topology differ from Author B's?"*
+- [ ] Track how ingredient networks shift over time (e.g., comparing 2020 vs. 2026 data) to identify and predict macro-culinary trends.
+
+### 🌌 Version 3.0: Cross-Platform & Temporal Analysis
+- [ ] Migrate the "Gold Standard" CSVs into a relational SQL database for complex, multi-source querying.
+- [ ] Deploy the interactive visualization to a live web server (e.g., GitHub Pages or Streamlit) for public access.
+- [ ] Identify signature ingredient pairings unique to specific culinary creators.
 
 ## 🚀 How to Run
 1. **Clone the repository:**
