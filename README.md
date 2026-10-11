@@ -1,2 +1,57 @@
-# Recipe_Database_project
-I was bored and wanted to see if I can create a data visualization of ingredients and their connections to one another.
+# Culinary Network Analysis: Decoding Recipe Architecture
+
+> **Project Status:** V1.0 Complete  
+> **Primary Data Source:** Cookwell.com (Scraped 10/1/2026; site architecture has since changed)
+
+## 📖 Project Overview
+Over a weekend, I wanted to create a small visualization tool utilizing web-scraped data to understand what recipe collections look like based on how ingredients are connected. Originally, this was intended as a practice feature for a personal recipe book project, utilizing outside data before my own dataset was complete. 
+
+The project quickly evolved into a full-scale analytical tool. By mapping ingredient co-occurrence into an interactive network graph, it visualizes the "DNA" of recipe design and explores the hidden connections between flavors, proteins, and culinary trends.
+
+## 🧠 The Core Hypothesis
+When creating recipes, there exist various philosophies around how dishes should be constructed. By analyzing network topology, this project investigates:
+* **The Protein-First Approach:** Do recipes cluster tightly around a central protein node, with vegetables and starches acting as peripheral satellites?
+* **The Flavor-First Approach:** Do spices, acids, and aromatics act as the primary "bridges" connecting disparate ingredients across different dishes?
+* **The Trend-Driven Approach:** How do viral or seasonal ingredients temporarily alter the network structure, creating isolated, short-lived clusters?
+
+## 🏗️ The Data Pipeline
+This project utilizes a modular, three-stage data pipeline to transform raw HTML into an interactive, categorized galaxy.
+
+### Phase 1: Automated Extraction
+* **Target:** Cookwell.com XML sitemaps.
+* **Methodology:** Navigates sitemaps, implements custom User-Agent headers to bypass basic anti-bot measures, and extracts structured recipe data while actively filtering out UI elements, navigation tags, and instructional text.
+
+### Phase 2: "Gold Standard" Data Cleaning
+Raw web data is notoriously messy. This phase utilizes a rigorous, multi-pass cleaning algorithm to ensure 100% data integrity before analysis:
+* **Regex & NLP:** Strips invisible Unicode characters, normalizes measurements (e.g., removing stray 'g', 'oz', 'cups'), and resolves algorithmic duplicates caused by mobile vs. desktop HTML rendering.
+* **Edge-Case Resolution:** Custom logic to repair data casualties from scraping, such as restoring "low fat" when an aggressive filter accidentally removed the word "fat".
+* **Categorization:** Maps 700+ unique ingredients into macro-categories (Protein, Vegetable, Seasoning, Carb, Dairy, Fat/Oil) to enable color-coded network analysis.
+
+### Phase 3: Network Construction & Visualization
+* **Nodes:** Represent unique ingredients. Size is determined by frequency (popularity); color is determined by macro-category.
+* **Edges:** Represent co-occurrence. An edge is drawn if two ingredients appear in the same recipe. Edge thickness and color are determined by connection strength and the "dominant" ingredient.
+* **Physics:** Utilizes a Barnes-Hut force-directed algorithm with custom damping and overlap constraints to create a stable, readable, and aesthetically pleasing constellation.
+
+## 📊 Visualizations & Findings
+
+### The "Hairball" Effect
+![Hairball Graph](Images/hairy-ball-effect.png)  
+*Initial render showing the "hairball" effect of excessive connections and the gravitational "black hole" pull of universal ingredients like Salt and Water.*
+
+### The Categorized Galaxy
+![Categorized Graph](Images/categorized-galaxy.png)  
+*Final render with Salt/Water excluded, nodes colored by macro-category, straight-line edges, and connections colored by the dominant ingredient. This reveals distinct culinary clusters.*
+
+## 🛠️ Tech Stack
+* **Languages:** Python 3.x
+* **Data Manipulation:** Pandas, Collections (Counter)
+* **Web Scraping:** BeautifulSoup4, Requests, Regex
+* **Network Analysis:** NetworkX
+* **Visualization:** Pyvis (Vis.js)
+* **Version Control:** Git / GitHub
+
+## 🚀 How to Run
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/culinary-network-analysis.git
+   cd culinary-network-analysis
