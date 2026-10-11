@@ -35,7 +35,7 @@ Raw web data is notoriously messy. This phase utilizes a rigorous, multi-pass cl
 ## 📊 Visualizations & Findings
 
 ### The "Hairball" Effect
-![Hairball Graph](Images/Hairy-ball-effect.png)  
+![Hairball Graph](Images/Hairy-Ball-effect.png)  
 *Initial render showing the "hairball" effect of excessive connections and the gravitational "black hole" pull of universal ingredients like Salt and Water.*
 
 ### The Categorized Galaxy
