@@ -1,6 +1,6 @@
 # Culinary Network Analysis: Decoding Recipe Architecture
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here_to_Explore-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silverdwarb.github.io/Recipe_Database_project/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here_to_Explore-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silverdwarb.github.io/recipe-database-project/)
 > **Project Status:** V 1.0 First release  
 > **Primary Data Source:** Cookwell.com (Scraped 10/1/2026; site architecture has since changed)
 
@@ -74,4 +74,4 @@ This project is designed to be modular and scalable. Future development is struc
 ## 🚀 How to View project
 **🌐 Live Interactive Demo:**  
 You can explore the interactive ingredient galaxy directly in your browser right now:  
-👉 **[View Live Demo](https://silverdwarb.github.io/Recipe_Database_project/)**
+👉 **[View Live Demo](https://silverdwarb.github.io/recipe-database-project/)**
