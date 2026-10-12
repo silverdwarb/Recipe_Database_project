@@ -666,14 +666,173 @@ ui_html = (
 html_document = net.generate_html()
 html_document = html_document.replace("</body>", ui_html + "\n</body>")
 
-loading_bar_css = (
-    '<style>#loadingBar {background-color:#2a2a2a !important; border-radius:10px !important; '
-    'padding:5px !important; width:300px !important; margin:auto !important; position:absolute !important; '
-    'top:20px !important; left:50% !important; transform:translateX(-50%) !important; z-index:10000;} '
-    '#loadingBar .border {background-color:#00d2ff !important; border-radius:5px !important;}</style>'
-    '<div id="loadingBar">'
+
+
+# ==========================================
+# FULL-SCREEN LOADING OVERLAY
+# ==========================================
+
+loading_bar_css = """
+<style>
+    /* Full-screen overlay */
+    #loadingBar {
+        position: fixed !important;
+        inset: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-sizing: border-box !important;
+
+        background: rgba(20, 20, 20, 0.50) !important;
+        backdrop-filter: grayscale(0.25) brightness(0.75);
+        -webkit-backdrop-filter: grayscale(0.25) brightness(0.75);
+
+        /* IMPORTANT: no !important on display.
+           PyVis must be able to set display:none when finished. */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        z-index: 10000 !important;
+        transition: opacity 0.4s ease;
+    }
+
+    /* Responsive loading-bar container */
+    #loadingBar .outerBorder {
+        position: relative !important;
+        top: auto !important;
+        left: auto !important;
+        transform: none !important;
+
+        width: min(560px, calc(100vw - 40px)) !important;
+        height: 64px !important;
+        margin: 0 !important;
+        padding: 8px !important;
+        box-sizing: border-box !important;
+
+        border: 2px solid #dddddd !important;
+        border-radius: 20px !important;
+        background: #f5f5f5 !important;
+    }
+
+    /* Center the percentage over the progress bar */
+    #loadingBar #text {
+        position: absolute !important;
+        inset: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        color: #111111 !important;
+        font-size: 20px !important;
+        text-align: center !important;
+        z-index: 2 !important;
+        pointer-events: none !important;
+    }
+
+    /* Progress track */
+    #loadingBar #border {
+        position: absolute !important;
+        left: 8px !important;
+        right: 8px !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
+
+        width: auto !important;
+        height: 20px !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-sizing: border-box !important;
+
+        background: #e5e5e5 !important;
+        border: 1px solid #cccccc !important;
+        border-radius: 10px !important;
+        overflow: hidden !important;
+    }
+
+    /* Progress indicator.
+       Leave width alone because PyVis updates it dynamically. */
+    #loadingBar #bar {
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-sizing: border-box !important;
+
+        background: #00bcd4 !important;
+        border: none !important;
+        border-radius: 10px !important;
+    }
+</style>
+<div id="loadingBar">
+"""
+
+html_document = html_document.replace(
+    '<div id="loadingBar">',
+    loading_bar_css,
+    1
 )
-html_document = html_document.replace('<div id="loadingBar">', loading_bar_css)
+
+# ==========================================
+# VERSION NUMBER & FUTURE UPDATES LINK
+# ==========================================
+
+version_box_html = """
+<div id="versionBox">
+    Version number: 1.0 |
+    <a
+        href="https://github.com/silverdwarb/Recipe_Database_project#-future-expansion--roadmap"
+        target="_blank"
+        rel="noopener noreferrer"
+    >
+        For future updates, click here
+    </a>
+</div>
+
+<style>
+    #versionBox {
+        position: fixed;
+        bottom: 15px;
+        right: 15px;
+        z-index: 9999;
+
+        background: rgba(25, 25, 25, 0.92);
+        color: #dddddd;
+        border: 1px solid #444444;
+        border-radius: 8px;
+        padding: 10px 14px;
+
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.35);
+    }
+
+    #versionBox a {
+        color: #00d2ff;
+        text-decoration: none;
+    }
+
+    #versionBox a:hover {
+        text-decoration: underline;
+    }
+</style>
+"""
+
+html_document = html_document.replace(
+    "</body>",
+    version_box_html + "\n</body>",
+    1
+)
+
+
 
 output_path = Path("index.html")
 output_path.write_text(html_document, encoding="utf-8")

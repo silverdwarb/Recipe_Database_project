@@ -1,6 +1,6 @@
 # Culinary Network Analysis: Decoding Recipe Architecture
 
-> **Project Status:** V0.9 Beta  
+> **Project Status:** V 1.0 First release  
 > **Primary Data Source:** Cookwell.com (Scraped 10/1/2026; site architecture has since changed)
 
 ## 📖 Project Overview
@@ -57,7 +57,7 @@ This project is designed to be modular and scalable. Future development is struc
 - [x] Build end-to-end scraping and cleaning pipeline.
 - [x] Implement macro-categorization and color-coded network visualization.
 - [x] Optimize physics engine to eliminate the "hairball" effect.
-- [ ] **Pending:** Implement a JavaScript-driven UI dropdown menu to allow users to dynamically toggle specific ingredient categories on/off, isolating specific "flavor webs" or "protein clusters."
+- [x] Implement a JavaScript-driven UI dropdown menu to allow users to dynamically toggle specific ingredient categories on/off, isolating specific "flavor webs" or "protein clusters."
 
 ### 🚧 Version 2.0: Author-Centric Analysis (Serious Eats)
 - [ ] Expand the scraping pipeline to ingest data from high-end culinary sites (e.g., *Serious Eats*).
