@@ -1,0 +1,360 @@
+recipe_id,title,ingredients
+1,Marcella Hazan's 3 Ingredient Tomato Sauce,whole peeled tomatoes | butter | onions | salt
+2,Braised Beef Tacos,tomato paste | guajillo chile powder | cumin | beef bouillon paste | cayenne pepper | garlic | chuck roast | water | salt | corn tortillas | cilantro | limes | onions | hot sauce
+3,Pan Pizza,bread flour | durum flour | salt | instant yeast | water | milk | egg whites | butter | whole peeled tomatoes | tomato paste | sugar | garlic powder | red pepper flakes | italian seasoning | olive oil | fish sauce two | salami | black olives | peppers | onions
+4,Focaccia,yeast | water | bread flour | salt | virgin olive oil | baking dish | rosemary
+5,Triple Garlic Rice,water | long grain rice | salt | garlic | cooking oil
+6,Christmas Crinkle Cookies,butter | sugar | eggs | vanilla extract | unsweetened chocolate | flour | baking powder | salt | powdered sugar
+7,Esquites Framework,corn ear | mayonnaise | crema | garlic | onions | cilantro | scallions | lime juice | salt | cotija cheese | chili powder | paprika | red pepper flakes | limes
+8,Homemade Whataburger,ground beef | salt | white pepper | hamburger buns | tomato puree | onions | iceberg lettuce | pickles | mustard | frozen fries
+9,Chicken Spiedies Hoagie,chicken thighs | salt | mayonnaise | black pepper | dried oregano | lemon zest | olive oil | red wine vinegar | lemon juice | parsley | sugar | msg | hoagie rolls | pickled onions | lettuce | tomatoes
+10,Two Ingredient Gnocchi & Browned Butter Sauce,russet potatoes | all purpose flour | salt | black pepper | nutmeg | thyme | butter | garlic | sage
+11,Lamb Pita Pocket,ground lamb | salt | cumin | aleppo pepper | pita bread | pickled onions | tomato puree | lettuce | wraps
+12,Four Ingredient Flour Tortillas,bread flour | water | lard | salt
+13,Honey Lemon Goat Cheese Brussel Sprout Salad,brussel sprouts | walnuts | potatoes | red onions | salt | goat cheese | olive oil | lemon juice | vinegar | dijon mustard | honey | thyme
+14,Spicy Thai Meatballs,birds eye green chilies | thai basil bunch | shallots | ground pork | hoisin | fish sauce | dark soy sauce | salt | white pepper | msg | water
+15,The pancake blueprint,flour | milk | eggs | butter | sugar | baking powder of flour | vanilla extract | salt
+16,Sausage & Cream Pasta,pasta package | water | salt | whole peeled tomatoes | heavy cream | butter | italian sausage | rosemary | red pepper flakes | parmigiano reggiano | parsley
+17,"One-Pot Chicken, Mozzarella, & Roasted Pepper Pasta",dried pasta | water | salt | black pepper | tomato paste | red pepper flakes | rosemary | cooked chicken | roasted peppers | mozzarella pearls | parsley
+18,Chicken & Sausage Gumbo,flour | cooking oil | celery | garlic | bell peppers | bay leaves | onions | thyme sprig | salt | black pepper | cayenne pepper | chicken thighs | andouille sausages | chicken broth enough to submerge | white rice | scallions | hot sauce
+19,Crispy Tofu Salad with Miso Ginger Mustard Dressing,firm tofu package | salt | cooking oil | rice vinegar | miso paste | sesame oil | karashi mustard | romaine lettuce | cucumbers | cherry tomatoes | sesame seeds | pickled ginger | chili crisp oil
+20,Smashed Italian Sausage Hoagie,hoagie rolls | italian sausage | shallots | provolone | marinara | pickled onions | italian seasoning
+21,Filipino Adobo Braise,chicken thighs | chicken drumsticks | cooking oil | soy sauce | vinegar | water | garlic of | black peppercorns | bay leaves | rice | scallions
+22,Pasta Alla Checca,spaghetti | water | salt | tomatoes | mozzarella | olive oil | basil | oregano | thyme | black pepper
+23,Homemade Chorizo Choripan Sandwich,ground pork | salt | paprika | dried oregano | black pepper | nutmeg | garlic | parsley | olive oil | vinegar | red pepper flakes | hoagie rolls
+24,Steak Stroganoff,egg noodles | mushrooms | garlic | yellow onion | cream | flour | beef broth | salt | black pepper | worcestershire sauce | dijon mustard | lemons | parsley
+25,Spicy Chicken Hoagie,chicken breasts | cooking oil | salt | dried oregano | garlic powder | cayenne pepper | mayonnaise | calabrian chilies | hoagie rolls | lettuce | tomatoes | onions | balsamic vinegar
+26,New York Style Bagels,instant yeast | honey | water | bread flour | salt | baking soda | eggs | cornmeal | poppy seeds | black sesame seeds | sesame seeds | garlic powder | onion powder
+27,Italian Chicken Pasta Salad,dried pasta | chicken | green peas | mozzarella pearls | cherry tomatoes | romaine lettuce | red onions | pepperoncini peppers | virgin olive oil | lemon juice | dried oregano | garlic powder | black pepper | salt
+28,The Pad See Ew Blueprint,soy sauce | dark soy sauce | oyster sauce | sugar | garlic | white pepper | salt | cooking oil | wide rice noodles | chinese broccoli | eggs
+29,Restaurant Style Chicken Fried Rice,rice | water | cooking oil | chicken thighs | salt | sugar | soy sauce | eggs | garlic | onions | carrots | mushrooms | peas | scallions | msg
+30,Homemade Cured Bacon,pork belly | salt | celery powder | brown sugar | szechuan peppercorns | garlic
+31,Jalapeno Chopped Cheese w/ Lime Crema,ground beef | salt | msg | onions | pickled jalapeños | low fat american cheese slice | mayonnaise | low fat cream | lime juice | hoagie rolls | lettuce | tomatoes
+32,Higher Protein King Ranch Casserole,chicken breasts | salt | neutral oil | white onions | poblano peppers | zucchini | cumin | smoked paprika | cayenne pepper | cream of mushroom soup | rotel | corn tortillas | hot sauce | cream | pickled onions | cilantro
+33,Teriyaki Sauce Framework,soy sauce | mirin | sake | sugar | chopped aromatics | chicken | salmon | tofu | white rice | condiments
+34,Cured Egg Yolks,salt | sugar | calabrian chili powder | egg yolks
+35,Boozy Shallot Mashed Potatoes,butter | shallots | salt | black pepper | yukon gold potatoes | milk | cream | chicken stock | flour | whiskey | carrots | onions | celery | rosemary sprig | turkey trimmings & backbone
+36,Tomato & Egg Stir Fry,eggs | cornstarch | white pepper | salt | soy sauce | cooking oil | tomatoes | scallions | rice
+37,Chipotle Shrimp Tacos,shrimp | mayonnaise | salt | chipotles in adobo | cumin | corn tortillas | low fat cream | hot sauce | salsa verde | pickled onions
+38,Fish en Papillote,cod fillet | green beans | citrus | herbs | garlic | scallions | broth | salt
+39,Sausage Gravy & Biscuits,flour | heavy cream | chives | butter | sausage | onions | milk | salt | black pepper
+40,Chicken with Rosemary Garlic Pan Sauce,chicken breasts | salt | chicken stock | rosemary | garlic | cooking oil | cornstarch slurry | black pepper | lemon juice
+41,Birria Braised Meat Framework,lamb shoulder | salt | ancho chiles | guajillo peppers | bay leaves | star anise | cinnamon sticks | peppercorns | garlic | tomatoes | yellow onion | broth
+42,Kalbi Short Ribs,soy sauce | rice vinegar | mirin | toasted sesame oil | sugar | garlic | asian pear | scallions bunch | onions | cross cut short ribs | cooking oil | kimchi | cooked rice | scallions | sesame seeds
+43,Chipotle’s Pollo Asado Burrito,chicken breasts | salt | achiote paste | habanero peppers | garlic | red onions | orange juice | lime juice | cooking oil | avocados | cream | cayenne pepper | pinto beans | cumin | flour tortillas | romaine lettuce
+44,Butter Chicken Snack Wrap,chicken breasts | yogurt | salt | kashmiri chili powder | garam masala | whole peeled tomatoes | butter | turmeric powder | garlic | fenugreek seeds | cumin | ginger | shallots | jalapeños | peanut butter | heavy cream | lavash bread | red onions | cilantro | wraps
+45,Tom Kha Soup,chicken broth | galangal root | lemongrass | red thai chiles | chicken thighs | mushrooms | coconut milk | fish sauce | lime juice | limes | cilantro
+46,Pico de Gallo,tomatoes | onions | serrano peppers | cilantro | lime juice | salt | condiments
+47,Panzanella (Italian Bread Salad),baguettes | cherry tomatoes | red onions | basil | parmigiano reggiano | salt | balsamic vinegar | olive oil | cherry tomato juices from salting | garlic | black pepper
+48,Crispy oven fries,russet potatoes | salt | vinegar | peanut oil
+49,Chicken & Ginger Stir Fry,chicken breasts | shaoxing wine | potato starch | salt | water | light soy sauce | dark soy sauce | sugar | ginger | scallions | neutral oil | chicken thighs
+50,Detroit Style Pan Pizza,flour | water | yeast | salt | whole peeled tomatoes | butter | garlic | onions | dried oregano | red pepper flakes | olive oil | garlic powder | pepperoni | peppers
+51,Poblano con Queso Taco,poblano peppers | mexican manchego block | corn tortillas | pickled onions | salsa
+52,Mediterranean Bento Box Lunch,chicken breasts | salt | za'atar | cooking oil | pita bread | hummus | havarti | hot & peppers | olives | lettuce | tomatoes
+53,Home Friendly General Tso's (Air Fried or Deep Fried),chicken breasts | eggs | soy sauce | chinese black vinegar | cooking oil | ginger | garlic | dried chinese red chiles | water | brown sugar | chili garlic paste | sesame oil | hoisin | cornstarch | flour | salt | baking powder | rice | scallions
+54,Lemongrass Shrimp Boil,stock | garlic | lemongrass | ginger | lemon juice | cajun seasoning | jumbo shrimp | andouille sausages | red potatoes | corn ear | butter
+55,The Philly Cheesesteak (Whiz Wit),hoagie rolls | ribeye | onion | cooking oil | salt | american cheese
+56,All-Purpose Noodle Stir Fry Sauce,soy sauce | chinese black vinegar | oyster sauce | sesame oil | chinese red chili flakes | cornstarch | water | stir fry noodles | condiments
+57,High Protein Beef Bowl,ground beef | tomato paste | salt | cumin | smoked paprika | cayenne pepper | yogurt | green chile sauce | lime juice | tortilla chips | monterrey jack cheese | red onions | pickled jalapeños | romaine lettuce
+58,Shakshuka,olive oil | onions | red bell peppers | garlic | cumin | paprika | chili powder | salt | whole peeled tomatoes | eggs | feta | cilantro | bread
+59,Sandwich Baguettes,instant yeast | water | bread flour | salt | baking spray | parchment paper
+60,18 Minute Burrito,chicken thighs | mayonnaise | garlic | lime zest | lime juice | salt | chili powder | dried oregano | black pepper | pinto beans | jalapeños | cooking oil | cumin seeds | flour tortillas | cream | lettuce | tomatoes | pickled onions | queso fresco | hot sauce | cilantro
+61,"Lamb Pita ""Smash Burger""",ground lamb | salt | za'atar | ground harissa | pita bread | greek yogurt | hummus | lettuce | tomatoes | red onions | lemon juice
+62,Crispy Chilli Beef,eggs | cornstarch | sesame oil | light soy sauce | salt | white pepper | msg | neutral oil | garlic | ginger | ketchup | vinegar | honey | dark soy sauce | cooked rice | cilantro | chinese red chili flakes
+63,Jamaican Oxtail Stew,oxtails | salt | cooking oil | onions | garlic | scallions | scotch bonnets | ginger | black pepper | allspice | browning sauce | water | butter beans | thyme | garnish with sliced green scallion tops
+64,Red Wine Braised Beef Cottage Pie,chuck roast | salt | neutral oil | onions | garlic | tomato paste | red wine bottle | beef broth | thyme bundle | bay leaves | cornstarch slurry | carrots | frozen peas | yukon gold potatoes | milk | butter | parmesan | parsley
+65,Caesar Salad,egg yolks | anchovies | garlic | dijon mustard | lemon juice | parmigiano reggiano | neutral oil | black pepper | salt | romaine lettuce | croutons | bacon | shallots | chicken breasts
+66,"Cream Cheese, Bacon, & Tomato Breakfast Sandwich",english muffins | bacon | heirloom tomato slice | cream cheese
+67,Chipotle Chicken Thighs,chicken thighs | salt | neutral oil | chipotles in adobo | cumin | garlic powder
+68,Southwest Chicken Grain Bowl,chicken breasts | salt | chili powder | cumin | cooking oil | yogurt | mayonnaise | hot sauce | onion powder | garlic powder | mexican oregano | corn | queso fresco | ground coriander | brown rice | black beans | avocados | bell peppers | lime juice | chicken thighs
+69,Panko Fish Tacos,salt | flour | cornstarch | eggs | panko bread crumbs | neutral oil | lime zest | corn tortillas | pickled onions | hot sauce | kewpie mayo | cilantro | limes
+70,Cheesy & Garlicky Roasted Broccoli,broccoli | virgin olive oil | garlic | salt | black pepper
+71,Steak with Red Wine Pan Sauce,salt | cooking oil | red wine | chicken stock | butter | shallots | cornstarch slurry | parsley | black pepper
+72,High Protein Dipping Tacos,ground beef | taco seasoning | salt | beef broth | hot sauce | smoked paprika | coriander seeds | lime juice | white onions | cilantro | msg | corn tortillas | cooking oil
+73,Chile Braised Venison Bowl,venison shoulder | neutral oil | stock | white onions | black pepper | flour | crushed tomatoes | water | pasilla chiles | ancho peppers | salt | thyme sprigs | garlic | cumin seeds | bay leaves | oregano | flour tortillas | cooked rice | pickled onions | limes | cilantro | once cooled they should be and crumbly
+74,Latkes,russet potatoes | eggs | salt | cooking oil | cream | applesauce
+75,Cilantro Avocado Pasta & Chicken Salad,dried macaroni noodles | chicken | corn | cherry tomatoes | cilantro | hatch chiles | red onions | avocados | yogurt | kewpie mayo | lime juice | salt | cayenne pepper | garlic powder | msg
+76,Crispy Bacon & Scallion Potato Pancakes,mashed potatoes | eggs | panko bread crumbs | bacon bits | scallions | salt | black pepper | butter | cooking oil | cream
+77,Thai Basil Beef Stir Fry,ground beef | cooking oil | salt | shallots | thai basil | thai black soy sauce | sriracha | fish sauce | jasmine rice
+78,Easter Pie,flour | butter | water | salt | black pepper | mozzarella | country ham | salami | pepperoni | ricotta | parmesan | milk | eggs | parsley
+79,Homemade Ice Cream Blueprint,sugar | milk | heavy cream | egg yolks | vanilla extract | strawberries | chocolate
+80,Cheesy Chicken Flatbread,chicken thighs | salt | cumin | cooking oil | lavash bread | hot sauce | greek yogurt
+81,15 Minute Triple Smash Burger with Bacon,ground beef | american cheese | brioche buns | bacon | salt | pickled onions | lettuce | mayonnaise | horseradish condiment | dijon mustard | hot sauce | honey | black pepper
+82,Za’atar Marinated Pasta & Chicken Salad,chicken breasts | salt | cooking oil | olive oil | za'atar | dried oregano | red pepper flakes | chickpeas | parmesan | arugula | tomatoes | red onions | pepperoncini peppers
+83,Oklahoma Shallot Burger,ground beef | shallots | salt | american cheese slice | potato bun
+84,Risotto Milanese,shallots | butter | white wine | arborio rice | broth | saffron | water | butter to finish | salt
+85,One-Pot Cheesy Chorizo Pasta,pasta | water | salt | chorizo | zucchini | onions | cilantro | american cheese | cornstarch
+86,Steamed Mussels,olive oil | garlic | shallots | fresno pepper | live mussels | white wine | salt | black pepper | lemon juice | parsley
+87,Palak Paneer,cooking oil | garam masala | kasoori methi bitter | green chilies | tomatoes | onions | ginger | garlic | salt | spinach | water | paneer
+88,Pickled Onions,red onions | vinegar | water | salt | condiments
+89,Jalapeño Ranch Salad w/ Adobo Chicken,chicken breasts | salt | chipotles in adobo | mayonnaise | cumin | cream | lime juice | jalapeños | cilantro | dill | lettuce | tomatoes | red onions | black beans | tortilla chips | mayo marinade
+90,20 Min Chicken & Yellow Rice,chicken breasts | salt | cooking oil | jasmine rice | water | chicken bouillon | turmeric powder | whole | aleppo pepper | low fat cream | mayonnaise | dried dill | lemon juice | lemon zest | black pepper | cherry tomatoes | iceberg lettuce | cucumbers | pickled onions | hot sauce
+91,Healthy-ish Rotisserie Chicken Nachos,cooked chicken | tortilla chips | low fat cream | hot sauce | lettuce | tomatoes | onions | jalapeños
+92,Chipotle Chicken Snack Wrap,chicken breasts | salt | chipotles in adobo | mayonnaise | cumin | tortillas | beans | hot sauce | cream | lettuce | tomatoes | onions | wraps
+93,Chicken & Pico Rice Bowl,chicken thighs | salt | granulated garlic | onions | bell peppers | neutral oil | roma tomatoes | jalapeños | cilantro | lime juice | mexican rice | black beans | low fat cream | lime wedges
+94,Meatball Sub,ground beef | ground lamb | panko breadcrumbs | milk | soy sauce | salt | dried oregano | red pepper flakes | msg | fennel seeds | eggs | garlic | ground cinnamon | cooking oil | whole peeled tomatoes | butter | shallots | sugar | basil | provolone | hoagie rolls | pepperoncini peppers
+95,Salmon Temaki Bento Box,salmon | sushi rice | edamame | seaweed handroll sheets | kewpie mayo | sriracha | black sesame seeds | salt | carrots | serrano peppers | water | rice vinegar | white vinegar | msg
+96,500 Calorie Burger,ground beef | salt | american cheese | brioche buns | pickles | red onions | kewpie mayo | mustard | ketchup | smoked paprika
+97,35 Min Chicken Biryani,chicken thighs | yogurt | black peppercorns | whole | garlic | ginger | onions | lemon juice | ground cinnamon | ground coriander | cumin | poppy seeds | salt | basmati rice | cooking oil | milk | turmeric powder | bay leaves | golden raisins | almonds | eggs
+98,Smoked Chuck Roast,chuck roast | salt | black pepper | dried chipotle pepper | beef broth
+99,Brioche Burger Buns,bread flour | butter | whole milk | eggs | sugar | instant yeast | salt | water | sesame seeds | poppy seeds
+100,Spicy Salmon Rice Bowl with Cucumber Salad,cucumbers | rice vinegar | soy sauce | sesame oil | furikake rice seasoning | thai chili flakes | salmon | salt | neutral oil | kewpie mayo | gochujang | cooked rice
+101,Scallion Oil Noodles,chinese wheat noodles | neutral oil | scallions | light soy sauce | dark soy sauce | sugar | stir fry noodles
+102,Enfrijoladas,black beans | cooking oil | garlic | onions | chili powder | salt | water | cooked chicken | sautéed vegetables | chorizo | corn tortillas | red onions | cilantro | queso fresco
+103,Chapli Kebab,ground beef | dried pomegranate seeds | buckwheat flour | coriander seeds | salt | cumin | kashmiri chili powder | garam masala | onions | cilantro | beef tallow | pita bread | cucumbers | lemons | yogurt
+104,Higher Protein Cheesy Gordita Crunch,ground beef | chipotles in adobo | tomato paste | cumin | salt | ground coriander | msg | yogurt | cream | hot sauce | garlic powder | kashmiri chili powder | lettuce | cheese | tomatoes | hard taco shell | keto flour tortillas
+105,Migas,eggs | tortilla strips | onions | tomatoes | green bell peppers | salt | cooking oil | tortillas | avocados | salsa
+106,Mayo Spatchcock Turkey,mayonnaise | turkey | salt | black pepper | garlic | thyme | sage | rosemary | mayo marinade
+107,Leftover Braised Meat Banh Mi,chuck roast | water | salt | black pepper | bread roll | cucumbers | cilantro | pickled carrots | pickled jalapeños | sriracha | kewpie mayo | hoisin | maggi seasoning
+108,Salmon Lox & Cream Cheese Bagel,bagels | smoked salmon | cream cheese | red onions | tomatoes | dill | capers
+109,The 20 Minute Fried Chicken Sandwich,chicken thighs | milk | salt | vinegar | flour | cornstarch | black pepper | paprika | chili powder | garlic powder | dried oregano | neutral oil | mayonnaise | dijon mustard | hot sauce | brioche buns | lettuce | pickled onions
+110,Chicken Cutlets,chicken breasts | salt | neutral oil | flour | eggs | bread crumbs
+111,Miso soup,water | dashi powder | tofu | miso paste | scallions | wakame seaweed
+112,Basic Risotto with Parmesan,butter | arborio rice | broth | water | parsley | salt | black pepper
+113,Baladi Salad & Beef Kebab Rice Plate,water | basmati rice | garlic | cooking oil | turmeric powder | chicken bouillon powder | tomatoes | cucumbers | onions | lemon juice | olive oil | aleppo pepper | cumin | salt | ground beef | za'atar | mayonnaise | yogurt | dill | black pepper
+114,Bacon Egg and Cheese Bagel,bagels | eggs | bacon | cheese slice | hot sauce
+115,Tinga Poblana Tostada,whole peeled tomatoes | chipotles in adobo | garlic | onions | bay leaves | dried oregano | sugar | salt | cooking oil | braised meat | tostadas | avocados | cream | cotija cheese | limes
+116,Steak & Rosemary Garlic Frites Sandwich,flank | olive oil | comte | baguettes | salt | arugula | onion confit condiment | mayonnaise | dijon mustard | yukon gold potatoes | rosemary sprigs | garlic | vinegar | neutral oil
+117,Spicy Garlic Noodles,soy sauce | chinese black vinegar | hoisin | sriracha | water | cornstarch | ramen noodles servings | ground turkey | red bell peppers | cooking oil | garlic | red pepper flakes | salt | msg | sesame oil | sesame seeds | cilantro | stir fry noodles
+118,Crispy Oven Roasted Buffalo Chicken,chicken | salt | baking powder | corn starch | butter | hot sauce | garlic powder | black pepper | mayonnaise | cream | blue cheese | water | worcestershire sauce | lemon juice
+119,Mushroom Risotto,mushrooms | cooking oil | butter two | arborio rice | water | butter | salt | black pepper | parsley
+120,Italian Chopped Cheese w/ Calabrian Mayo,ground beef | salt | msg | onions | low fat american cheese slice | provolone slice | mozzarella slice | mayonnaise | calabrian chilies | vinegar | hoagie rolls | lettuce | tomatoes
+121,Shokupan (Japanese Milk Bread Loaf),bread flour | water | milk | instant yeast | sugar | butter | eggs | salt
+122,Hot & Sweet Chicken Banh Mi,chicken thighs | salt | mayonnaise | hoisin | honey | sriracha | soy sauce | garlic | chinese five spice | black pepper | carrots | daikon radish | water | vinegar | sugar | dried bird's eye chiles | baguettes | cucumbers | cilantro | jalapeños | maggi seasoning
+123,Tinga Poblana Braised Pork,pork shoulder | salt | water | bay leaves | whole peeled tomatoes | chipotles in adobo | garlic | dried oregano | onions | sugar | neutral oil
+124,Perfect Scrambled Eggs,eggs | butter | salt | black pepper | chives
+125,Crispy Pork Belly,pork belly | salt | tortillas | bao bun | sandwich bread | ramen noodles
+126,Blackened Chicken Wrap,chicken breasts | salt | cooking oil | smoked paprika | onion powder | cayenne pepper | dried thyme | greek yogurt | low fat cream | lemon juice | dill | black pepper | flour tortillas | lettuce | tomatoes | pickled onions | mayo marinade | wraps
+127,Classic Shrimp Lo Mein,lo mein noodles | neutral oil | shrimp | salt | sesame oil | oyster sauce | light soy sauce | dark soy sauce | sugar | chicken bouillon | water | white pepper | garlic | carrots | red onions | cabbage | bean sprouts | scallions | stir fry noodles
+128,Honey Chipotle Glazed Chicken Kebabs,salt | chicken thighs | chipotles in adobo | honey | water | lime juice | mexican oregano | flour tortillas | cream | tomatoes | lettuce | pickled onions
+129,Teriyaki & Snap Pea Noodles,cooking oil | garlic | ginger | soy sauce | mirin | sake | sugar | cornstarch | water | ramen noodles servings | braised beef | snow peas | salt | sesame seeds | stir fry noodles
+130,Classic Eggs Benedict,eggs | ham | english muffins | butter | chives | egg yolks | lemon juice | salt | paprika
+131,The Italian Sub Framework,sesame roll | homemade hoagie | bakery sub roll | bolillo | rosemary ham | cooked prosciutto | deli ham | salami | mortadella | soppressata | fennel soppressata | prosciutto | mozzarella | provolone | parmigiano reggiano | mayonnaise | hot pepper spread | olive oil | vinegar | oregano | lettuce | tomatoes | onions | black pepper | salt
+132,One Pot Italian Sausage & Broccoli Pasta,garlic | hot cherry peppers | hot italian sausages | baby broccoli | white wine | pasta | water | salt | olive oil
+133,Fiery Carbonara,water | cornstarch | olive oil | harissa paste | egg yolks | lemons | aleppo pepper | spaghetti | guanciale | garlic | cayenne pepper
+134,"Leftover Focaccia ""Pizza""",butter | dried oregano | garlic powder | red pepper flakes | focaccia | marinara | basil
+135,Green Chile Chicken Enchiladas,garlic | chicken thighs | salt | mayonnaise | cumin seeds | anaheim peppers | poblano peppers | cooking oil | onions | cilantro | water | vinegar | flour tortillas | monterrey jack cheese block | cream | pickled onions
+136,Roasted Poblano Cheese Crust Quesadilla,chicken | mexican manchego | poblano peppers | hot sauce | tortillas | pickled onions | cream
+137,Beer Battered Fish Sandwich,salt | flour | neutral oil | light beer | cornstarch | baking powder | vinegar | black pepper | mayonnaise | chili crisp oil | rice vinegar | cilantro | cabbage | ginger | sesame oil | sesame seeds | chinese red chili flakes | sugar | msg | brioche buns | pickled onions
+138,Chimichurri,parsley | virgin olive oil | red wine vinegar | garlic | dried oregano | red pepper flakes | black pepper cranks | salt | green sauces | condiments
+139,Spicy Cumin Lamb Wrap,ground lamb | cumin seeds | aleppo pepper | salt | greek yogurt | olive oil | garlic | dried oregano | lemon zest | lemon juice | pita wraps | romaine lettuce | tomatoes | white onions | wraps
+140,Lower Calorie Butter Chicken,chicken breasts | yogurt | salt | chili powder | cumin | garam masala | garlic | ginger | lime juice | baking spray | tomatoes | onions | peanut butter | turmeric powder | butter | water | fenugreek leaves | basmati rice | naan | cilantro
+141,Congee with Crispy Chili Pork,chicken broth | rice | garlic | carrots | onions | neutral oil | sesame oil | salt | ground pork | birds eye green chilies | scallions | water | soy sauce | hoisin | chili crisp oil | ginger
+142,Healthier White Cheddar Mac & Cheese,white cheddar powder | skim milk | low fat cream | dried pasta | salt | chicken | frozen peas
+143,Bulgogi Beef Tacos,flat iron steak | salt | soy sauce | honey | sesame oil | scallions | water | neutral oil | green cabbage | carrots | ginger | cilantro | rice vinegar | sugar | msg | kewpie mayo | gochujang | corn tortillas
+144,Alambre,bacon | green bell peppers | onions | salt | black pepper | chicken bouillon | tortillas | salsa | rice & beans
+145,Ricotta Pasta Sauce with Peas & Bacon,fusili | peas | ricotta | parmigiano reggiano | butter | bacon | black pepper | red pepper flakes | salt
+146,"Faster, Better, Spaghetti & Meat Sauce",ground beef | hot italian sausages links | onions | garlic | salt | crushed tomatoes | water | tomato paste | dried oregano | red pepper flakes | beef bouillon paste | sugar | basil | spaghetti package
+147,Deli Style Pasta Salad,dried macaroni noodles | celery | carrots | dill pickles | red onions | salt | kewpie mayo | dijon mustard | lemon juice | garlic powder | sugar | msg
+148,Belish (Pagach),flour | milk | butter | sugar | instant yeast | salt | eggs | monterrey jack cheese | cheddar | russet potatoes
+149,Watermelon Gazpacho,watermelon | cucumbers | lime juice | serrano peppers | salt | virgin olive oil | mint leaves | black pepper cranks | feta
+150,Cheesesteak,chuck roast | salt | white onions | cooking oil | cheese wiz | sesame roll | hoagie rolls | bakery sub roll
+151,Salmon Edamame Poke Bowl,salmon | soy sauce | mirin | sesame oil | sesame seeds | edamame | garlic | chinese red chili flakes | salt | baking spray | yogurt | sriracha | rice vinegar | sushi rice | furikake rice seasoning | pickled onions | cucumbers
+152,Hoagie Rolls,milk | yeast | diastatic malt powder | bread flour | honey | olive oil | salt | cornmeal | egg whites from | water | ice cubes
+153,Bibimbap,soy sauce | sugar | sesame oil | gochujang | mirin | rice vinegar | water | carrots | salt | sesame seeds | gochugaru | spinach bunch | zucchini | canola oil | shiitake mushrooms | cooking oil | garlic | rice | eggs | scallions
+154,NOLA BBQ Shrimp,jumbo shrimp | butter | garlic | rosemary sprigs | cajun seasoning | salt | black pepper | lager beer | worcestershire sauce | hot sauce
+155,Beefy Hummus Taco,ground beef | beef bouillon paste | water | salt | za'atar | cherry tomatoes | dill | sumac | olive oil | feta | whole wheat tortilla | hummus
+156,Jollof Rice,ground ginger | dried thyme | red pepper flakes | ground coriander | onion powder | garlic powder | ground cinnamon | smoked paprika | cubeb tail pepper | crayfish powder | salt | nutmeg | whole peeled tomatoes | white onions | red bell peppers | habanero peppers | cooking oil | curry powder | cayenne pepper | red onions | bay leaves | jollof spice mix | chicken broth | basmati rice | cilantro | chicken thighs | butter | thyme sprig | garlic
+157,Buffalo Chicken Baked Potato,chicken breasts | salt | chicken bouillon powder | shallots | cooking oil | blue cheese | cream | dried dill | granulated garlic | black pepper cranks | water | russet potatoes | buffalo sauce | scallions
+158,Chick-Fil-A Waffle Fries,russet potatoes | water | vinegar | neutral oil | salt | mayonnaise | ketchup | brown mustard | worcestershire sauce | honey | black pepper
+159,Chicken Pita with Roasted Pepper Sauce,red bell peppers | mayonnaise | aleppo pepper | smoked paprika | neutral oil | salt | chicken breasts | olive oil | pita bread | tomatoes | shallots | arugula bitter | feta
+160,Carbonnade Flamande,chuck roast | salt | black pepper | flour beef | cooking oil | butter | bacon | onions | garlic | bay leaves | thyme | belgian ale | beef broth | apple cider vinegar | brown sugar | french fries | mashed potatoes | bread | parsley
+161,Green Pea Pesto,peas protein | basil | olive oil | butter | parmesan | garlic | salt | black pepper | lemon juice | green sauces
+162,Black Pepper Crust Chicken & Sandwich,chicken breasts | salt | black pepper | olive oil | mayonnaise | yogurt | dried dill | garlic | potato bun | bacon | lettuce | mayo marinade | chicken thighs
+163,Cheesy Chorizo Breakfast Burrito,flour tortillas | chorizo | eggs | frozen tater tots | low fat cream two | salsa verde
+164,Curry Fried Chicken Sandwich,chicken breasts | eggs | salt | flour | panko breadcrumbs handul | neutral oil | purple cabbage | apples | mayonnaise | sesame oil | sesame seeds | brioche buns | japanese curry cube | water
+165,Gochujang Steak Bowl,onions | ginger | garlic | salt | ponzu | soy sauce | gochujang | cooked rice portions | scallions | sesame oil | sesame seeds
+166,Chicken Kati Rolls,chicken thighs | salt | msg | lime juice | cumin | kashmiri chili powder | turmeric powder | black pepper | garlic | ginger | tomato paste | yogurt | roma tomatoes | birds eye green chilies | cilantro | mint leaves | water | paratha flatbreads | cucumbers | pickled onions
+167,Costra Tacos,adobo seasoning | corn tortillas | hot sauce | pickled onions | crema
+168,Picadillo Tostada,ground beef | whole peeled tomatoes | potatoes | garlic | white onions | smoked paprika | ancho chili powder | ground cinnamon | hot sauce | salt | cooking oil | tostadas | lettuce | tomatoes | pickled onions | queso fresco | crema
+169,Spring Roll Framework,rice paper wrapper | asian rice noodles | shrimp | tofu | chicken | cilantro | scallions | lettuce | mint | carrots | cucumbers | bell peppers | cabbage | peanut butter | soy sauce | rice vinegar | sugar | garlic | ginger | sriracha | lime juice
+170,Cumin Beef & Hummus Pita,flank | salt | cumin | cooking oil | pita bread | hummus | feta | pickled beets | red onions | lemon juice | mayo marinade
+171,Flaky Flatbread Parathas,flour | water | neutral oil | salt | ghee
+172,20-Min Chicken Shawarma Wrap,chicken thighs | salt | mayonnaise | cumin | garlic powder | turmeric powder | harissa powder | smoked paprika | yogurt | za'atar | black pepper | lemon juice | cucumbers | cherry tomatoes | red onions | sumac | olive oil | pita bread | frozen fries | muhammara | wraps
+173,Dirty Rice,ground pork | long grain rice | bell peppers | onions | celery | water | paprika | cayenne pepper | oregano | garlic powder | salt | black pepper
+174,High Protein Crunchwrap Supreme,ground beef | salt | homemade taco seasoning | tomato paste | cornstarch slurry | low fat cream | mayonnaise | chipotle hot sauce | dried dill | onion powder | chili powder | pickle juice | high protein flour tortilla wraps | tostadas | iceberg lettuce | roma tomatoes | red onions
+175,Mushroom Pad See Ew,dark soy sauce | soy sauce | oyster sauce | sugar | wide rice noodles | mushrooms | broccolini | garlic | eggs | white pepper | cooking oil
+176,"Spicy Egg, Bacon, & Cheese Sandwich",butter | eggs | bacon | english muffins | cheese slice | hot sauce
+177,Braised Beef Frito Pie,enchilada sauce | garlic powder | smoked paprika | frito corn chips | white onions | cilantro | cream | hot sauce
+178,Chili Oil Beef Noodles,chili crisp oil | soy sauce | peanut butter | sesame oil | lime juice | ground beef | salt | chili powder | noodles servings | asparagus | scallions | stir fry noodles
+179,Weeknight Chicken Burrito,chicken thighs | salt | cumin seeds | coriander seeds | chili powder | black beans | jalapeños | garlic | lime juice | flour tortillas | cheese | salsa | lettuce | crema | pickled onions
+180,Egg Salad Framework,eggs | onions | celery | scallions | mayonnaise | olive oil | mustard | lemon juice | salt | black pepper | crackers | sandwich bread
+181,Higher Protein Chicken Enchiladas Verdes,green enchilada sauce | poblano peppers | anaheim peppers | red onions | cilantro | cumin seeds | neutral oil | salt | chicken breasts | granulated garlic | flour tortillas | onions
+182,Southwestern Brussel Sprout Salad,brussel sprouts | black beans | monterrey jack cheese | poblano peppers | avocados | pickled onions | cumin seeds | salt | olive oil | lime juice | mayonnaise | chipotles in adobo | cilantro
+183,Irish-Indian Shepherds Pie,onions | carrots | garlic | ginger inch piece | green thai chile | salt | mustard seeds | cumin seeds | whole | bay leaves | chili powder | turmeric powder | garam masala | ground lamb | worcestershire sauce | mushroom better than bouillon | tomato paste | frozen peas | crushed tomatoes | yukon gold potatoes | black mustard seeds | butter | milk | gruyere | neutral oil
+184,Weeknight Hummus,chickpeas | tahini sauce | water | lemon juice | garlic | cumin seeds | salt | smoked paprika | cayenne pepper | olive oil | cherry tomatoes | cucumbers | pickled onions | ground lamb | feta | dill | roasted vegetables | mayo marinade | wraps
+185,Lu Rou Fan,pork belly | light soy sauce | shaoxing wine | sugar | dark soy sauce | water | shallots | ginger | garlic | bay leaves | star anise | cinnamon sticks | chinese five spice | white pepper | short grain rice | bok choy | chinese broccoli | eggs | scallions
+186,Jamaican Beef Patty,flour | water | beef tallow | turmeric powder | curry powder | sugar | salt | ground beef | onions | carrots | scotch bonnets | garlic | dried thyme | smoked paprika | allspice | beef bouillon paste cube
+187,Jägerschnitzel,pork chops | salt | mushrooms | onions | garlic | heavy cream | worcestershire sauce | black pepper | cooking oil | parsley | lemons | eggs | flour | breadcrumbs | neutral oil
+188,High Protein Za’atar Chicken & Hummus Wrap,chicken breasts | za'atar | salt | non cooking spray | high protein tortilla wrap | hummus two | pickles | feta | wraps
+189,Massaman Curry,massaman curry paste ( ) | ghee | ginger | coconut milk | water | chicken breasts | salt | yukon gold potatoes | white onions | fish sauce | cane sugar | lime juice | peanuts | jasmine rice
+190,Street Pad Thai,flat rice noodles | chicken | bamboo shoots | scallions | dried shrimp | garlic | ginger | eggs | cooking oil | tamarind puree | fish sauce | palm sugar | dark soy sauce | peanuts | limes | sriracha | stir fry noodles
+191,Cheesy Gordita Crunch,ground beef | salt | onion powder | cumin | cayenne pepper | paprika | tomato paste | msg | chicken breasts | mayonnaise | chipotles in adobo | cream | hot sauce | ground coriander | pickled jalapeños | lime juice | taco shells | pita bread | colby jack cheese | iceberg lettuce | red onions | tomatoes
+192,Leftover Focaccia Turkey Pesto Sandwich,focaccia | sliced turkey | provolone slice | arugula | tomatoes | mayonnaise | pesto | pickled onions
+193,Aloo Gobi,cauliflower | potatoes | onions | garlic | ginger | green chilies | tomatoes | cumin | turmeric powder | paprika | garam masala | cooking oil | salt | water | cilantro
+194,Baba Ganoush,eggplant | virgin olive oil | tahini sauce | garlic | parsley | lemon juice | cumin | pita bread
+195,Tortilla Soup,chicken thighs | neutral oil | ancho chiles | garlic | cumin seeds | poblano peppers | onions | chicken broth | roma tomatoes | corn tortillas | avocados | cheese | cilantro | limes
+196,Piccata Pan Sauce,flour | cooking oil | white wine heavy splash | lemon juice | capers | garlic | lemon zest | black pepper | butter | parsley | salt
+197,Tortilla Española,eggs | potatoes | onions | olive oil | salt
+198,Cubano Sandwich Framework,cubano roll | butter | swiss | braised pork | ham | pickles | mustard
+199,Eggs Royale,eggs | english muffins | butter | smoked salmon | spinach | chives | egg yolks | lemon juice | salt | paprika
+200,Roasted Peppers,red bell peppers | yellow bell peppers | cooking oil | salt | vinegar | garlic | dried herbs | flavored oils | condiments
+201,Cacio e Pepe (The Foolproof Way),water | cornstarch | olive oil | black pepper | spaghetti | salt
+202,"Sandwich Bread (White Bread, Cinnamon Swirl, Everything Bagel)",bread flour | skim milk | butter | sugar | instant yeast | salt | poppy seeds | black sesame seeds | sesame seeds | garlic | onions | ground cinnamon | pecans
+203,Sausage & Sourdough Breakfast Casserole,eggs | fairlife milk | cottage cheese | dijon mustard | salt | black pepper | turkey breakfast sausage | sourdough bread loaves | gruyere | frozen spinach | shallots | neutral oil | chives | mayonnaise | ketchup | hot sauce
+204,Karaage: Japanese Fried Chicken,chicken thighs | eggs | potato starch | sake | soy sauce | sugar | salt | flour | neutral oil | rice vinegar | mirin | sriracha | sesame oil | scallions | lemons | kewpie mayo
+205,Grilled Chicken Chop Salad,chicken thighs | salt | kewpie mayo | cumin | paprika | garlic powder | turmeric powder | sumac | black pepper | ground cinnamon | cayenne pepper | yogurt | lemon juice | dill | romaine lettuce | cherry tomatoes | cucumbers | feta | pickled onions | tortilla strips | mayo marinade
+206,Green Chile Chicken White Cheddar Mac & Cheese,dried macaroni noodles | water | salt | white cheddar powder | american cheese | chicken breasts | poblano peppers | chili powder | cumin | paprika
+207,Ginger Garlic Steak & Rice,flat iron steak | salt | garlic | ginger | cooking oil | hoisin | cooked rice one portion | scallions | sesame seeds
+208,23 Minute Chicken Strips,chicken thighs | milk | salt | msg | lemon juice | flour | cornstarch | black pepper | neutral oil | butter | lemon zest | garlic powder | hot sauce
+209,Spiced Lamb Wrap,ground lamb | salt | whole | cumin seeds | oregano | black pepper | garlic | lemon juice | greek yogurt | mayonnaise | smoked paprika | lavash bread | lettuce | cherry tomatoes | pickles | wraps
+210,Chili Cheese Baked Potato,russet potatoes | neutral oil | salt | ground beef | crushed tomatoes | tomato paste | chili powder | cumin | smoked paprika | onions | pickles | cream | cilantro
+211,Thai Sausage Stir Fry,ground pork | fish sauce | shallots | garlic | cilantro | lemongrass | curry powder | black pepper | red thai chiles | lime zest | broccolini | salt | white rice | sriracha
+212,Vodka Pasta & Sausage,crushed tomatoes | butter | shallots | red pepper flakes | fennel seeds | dried oregano | heavy cream | vodka alcohol | italian sausage | salt | parmigiano reggiano
+213,Ginger Beef & Broccoli,garlic | broccoli head | ginger inch | salt | cooking oil | thai chili flakes | soy sauce | white rice | pickled onions | black sesame seeds
+214,Low Calorie Weeknight Burger,ground beef | american cheese slice | salt | hamburger buns | ketchup | dijon mustard | red onions | pickles | lettuce
+215,Filipino Eggplant Omelet,asian eggplants | eggs | salt | black pepper | cooking oil | rice | ketchup
+216,"High Protein Turkey Sausage, Egg & Cheese English Muffin",ground turkey | salt | garlic | dried sage | whole | dried thyme | fennel seeds | black pepper | maple syrup | english muffins | eggs | american cheese slice | ketchup
+217,Beef & Yellow Rice Bowl,ground beef | salt | aleppo pepper | granulated garlic | white rice | water | chicken bouillon powder | dried oregano | turmeric powder | garlic | low fat cream | mayonnaise | dried dill | vinegar | pickled onions | cilantro
+218,Tuna Poke Bowl,tuna | scallions | wakame seaweed | red onions | sesame seeds | soy sauce | sesame oil | rice vinegar | sriracha | water | carrots | serrano peppers | salt | msg
+219,Mangu & 'Los Tres Golpes',green plantains | water | butter | salt | queso de freir | salami | eggs | cooking oil | pickled onions
+220,Menemen,eggs | tomatoes | green bell peppers | salt | virgin olive oil | paprika | dried oregano | parsley | dill
+221,Pork Chop with Pan Sauce,pork chops | cooking oil | salt | black pepper | broth | garlic | shallots | herbs | butter | mustard | cornstarch slurry
+222,NYC Square Pizza with Vodka Sauce & Cupping Pepperoni,bread flour | water | sugar | olive oil | salt | instant yeast | whole peeled tomatoes | heavy cream | garlic | dried oregano | calabrian chilies | vodka alcohol | pepperoni whole | low moisture mozzarella | picante provolone
+223,Red Wine Braised Short Ribs,english cut short ribs | salt | cooking oil | onions | carrots | celery | tomato paste two | red wine of bottle | beef broth | bay leaves | water | dried polenta | milk two | butter | black pepper | parsley | garlic | lemon zest
+224,Healthy Chicken Guacamole Bowl,avocados | garlic | cilantro | lime juice | salt | corn ears | cherry tomatoes | red onions | habanero peppers | chicken breasts | smoked paprika | chili powder | cooking oil | tortilla chips | queso fresco
+225,Cantonese Black Pepper Beef,flank | chinese black vinegar | salt | sugar | lee kum kee black pepper sauce | chili oil w fermented soybeans | soy sauce | black pepper | onion powder | garlic powder | msg | cooking oil | garlic | shallots | onions | red bell peppers | cornstarch | water | rice
+226,High Protein Kofta Beef Bowl,ground beef | yellow onion | parsley | cumin | ground coriander | allspice | salt | basmati rice | water | chicken bouillon powder | aleppo pepper | turmeric powder | whole | greek yogurt | mayonnaise | dried dill | granulated garlic | black pepper | pickle juice | lettuce | tomato puree | feta | pickled onions
+227,Chicken Salad Framework,cooked chicken | carrots | celery | onions | scallions | mayonnaise | mustard | garlic powder | paprika | onion powder | salt | black pepper
+228,Tonkatsu,pork chops | flour | cornstarch | eggs | panko bread crumbs | neutral oil | salt | cabbage | kewpie mayo | soy sauce | sriracha | rice vinegar | carrots | ginger | garlic | lemon zest | tonkatsu sauce | lemons
+229,Chicken Fajita Bowl,chicken thighs | salt | cumin | chili powder | chicken bouillon | bell peppers | onions | dried black beans | water | garlic | jalapeños | cooking oil | white rice | roma tomatoes | lettuce | cilantro
+230,Milanesa,meat cutlets | salt | eggs | flour | breadcrumbs | neutral oil
+231,Pierogi,all purpose flour | milk | cooking oil | salt | eggs | yukon gold potatoes | chives | butter | onions | cream
+232,Sweet & Savory Kolaches,bread flour | milk | butter | sugar | salt | instant yeast | eggs | water | sausage | cheddar | jalapeños | ham | jam | farmers cheese
+233,Chicken Shoyu Ramen,chicken carcass | water | ginger | soy sauce | mirin | kombu | bonito flakes | chicken skins from | garlic | scallions | chicken thighs | salt | ramen noodles | eggs | pickled onions
+234,Croque Madame,grain bread | butter | dijon mustard | ham | eggs | chives | flour | milk | rosemary sprig | lemon juice | salt
+235,Pita Pizza,lebanese style pita | low moisture mozzarella | roasted red pepper hummus | chicken thighs | mayonnaise | salt | garlic powder | lemon zest | oregano | red pepper flakes | lettuce | tomatoes | pickled onions
+236,Spicy Popcorn Chicken,milk | louisiana style hot sauce | salt | chicken thighs | lemon juice | flour | cornstarch | black pepper | chili powder | garlic powder | oregano | neutral oil | hot sauce | butter | cayenne pepper
+237,Thai Chile Pork & Cabbage Stir Fry,ground pork | cabbage | salt | thai chilies | shallots | cooking oil | fish sauce | msg | sesame oil | eggs | black sesame seeds
+238,Lower Calorie Shrimp Fried Rice,rice | water | cooking oil | eggs | shrimp | salt | cornstarch | baking spray | garlic | onions | carrots | mushrooms | peas | scallions | soy sauce | sugar | msg
+239,Chimichurri Sandwich,ribeye | salt | cooking oil | ciabatta rolls | mayonnaise | arugula | parsley | olive oil | red wine vinegar | garlic | dried oregano | red pepper flakes | black pepper
+240,Sausage & Broccolini Gnocchi,garlic | broccolini bunch | cooking oil | red pepper flakes | gnocchi serving | italian sausage serving | parmesan | salt
+241,Tteokbokki,gochujang | sugar | gochugaru | water | kombu | bonito flakes | rice cakes | scallions | sesame seeds
+242,Spaghetti & Meatballs,ground beef | ground pork | milk | bread crumbs | parmesan | parsley | oregano | salt | black pepper | egg yolks | onions | whole peeled tomatoes | butter | olive oil | tomato paste | garlic | red pepper flakes | spaghetti | basil
+243,Gochujang Beef Bowl,ground beef | green peas | gochujang | salt | sesame oil | water | rice | scallions | pickled ginger
+244,Som Tum,green papaya | green beans | tomatoes | garlic | peanuts | ginger | red thai chiles | sugar | salt | fish sauce | lime juice
+245,High Protein Baked Chicken Ziti,whole peeled tomatoes | garlic | dried oregano | olive oil | chicken breasts | salt | bell peppers | onions | granulated garlic | aleppo pepper | water | low moisture mozzarella
+246,Classic French Omelette,eggs | butter | salt | chives
+247,Roti / Chapati Flatbread,whole wheat flour | bread flour | water
+248,Figgy Pudding,breadcrumbs | milk | flour | beef tallow | demerara sugar | eggs | orange juice | orange zest | butter | mixed dried fruit | medjool dates | candied ginger | walnuts | nutmeg | ground cinnamon | allspice | brandy alcohol to cover | heavy cream
+249,Steak Lettuce Wraps,flank | salt | cooking oil | neutral oil | ponzu | soy sauce | sesame oil | lime zest | garlic | bib lettuce | sesame seeds | wraps
+250,Black Bean Smash Burger,black beans | breadcrumbs | cornstarch | eggs | salt | msg | black pepper | mayonnaise | ketchup | yellow mustard | onions | paprika | garlic powder | brioche buns | lettuce | tomatoes | pickled onions
+251,Pesto Pasta Salad,basil bunch | olive oil | parmigiano reggiano | pine nuts | garlic | salt | black pepper | cooked chicken | tomatoes | corn | roasted vegetables
+252,Chicken Pad See Ew,dark soy sauce | soy sauce | oyster sauce | sugar | fish sauce | wide rice noodles | chicken breasts | broccolini | eggs | garlic | white pepper | cooking oil | stir fry noodles
+253,Whipped Feta Dip,feta | greek yogurt | olive oil | garlic | nuts | olives | lemon zest | pita bread | crackers | raw vegetables
+254,Kettle Cooked Chips,russet potatoes | neutral oil | salt
+255,Carne Guisada,chuck roast | beef cheeks | salt | neutral oil | onions | green bell peppers | poblano peppers | cumin | chili powder | smoked paprika | oregano | bay leaves | water | diced tomatoes | cornstarch slurry | mexican rice | refried black beans | flour tortillas | queso fresco | avocados
+256,Pasta Alla Genovese,beef chuck | salt | onions | carrots | celery | cherry tomatoes | olive oil | chicken broth | white wine | bay leaves | rigatoni | parmesan | black pepper
+257,Pesto Slaw Chicken Cutlet Sandwich,cooked chicken cutlet | kale | fennel | mayonnaise | mozzarella | hoagie rolls | heirloom tomato | oregano
+258,Creamy Buffalo Sauce,hot sauce | butter | yogurt | black pepper | garlic powder | lemon zest | msg | condiments
+259,Cumin Lamb Burger,flour | water | salt | instant yeast | baking powder | sugar | lamb chops | cornstarch | cooking oil | scallions | ginger | garlic | cumin seeds | red pepper flakes | red onions | green thai chile | msg | pickled onions | cilantro
+260,Chick-Fil-A Style Grilled Chicken Deluxe Sandwich,chicken breasts | garlic | lemon zest | salt | mayonnaise | thyme | black pepper | brioche bun | bacon | colby jack cheese | lettuce | tomatoes | pickled onions | barbecue sauce | honey | dijon mustard | black pepper sprinkles
+261,Pasta Puttanesca,olive oil | garlic | anchovies | olives | capers | cherry tomatoes | spaghetti | parsley
+262,Chinese Takeout Style Chicken Fried Rice,chicken breasts | baking soda | light soy sauce | sugar | cornstarch | salt | msg | neutral oil | cooked rice | eggs | yellow onion | carrots | garlic | bean sprouts | frozen peas | dark soy sauce | white pepper | shaoxing wine | sesame oil | scallions
+263,Hatch Chile Smash Burger,ground beef | roasted hatch chilies | american cheese slice | brioche bun | cheddar | kewpie mayo | cilantro | pickled daikon & carrots
+264,Colombian Style Shredded Chicken Arepa,chicken breasts | salt | cooking oil | corn cobs | garlic | cilantro | mayonnaise | lime juice | hot sauce | arepa choclo | quesito | chicken thighs
+265,Higher Protein Chicken Lo Mein,lo mein noodles | neutral oil | chicken breasts | light soy sauce | chicken bouillon | sesame oil | shaoxing wine | oyster sauce | sugar | water | garlic | ginger | chinese broccoli | yellow squash | bell peppers | red onions | bean sprouts | stir fry noodles
+266,The Philly Roast Pork Sandwich,boneless pork loin | olive oil | salt | black pepper | dried oregano | rosemary | chicken stock | garlic | broccoli rabe | hot cherry peppers | hoagie rolls | provolone | pickled onions
+267,Street Cart Chicken & Yellow Rice,chicken thighs | salt | whole | cumin seeds | dried oregano | black pepper cranks | garlic | lemon juice | mayonnaise | basmati rice | water | butter | onions | turmeric powder | smoked paprika | bay leaves | greek yogurt | white vinegar | cayenne pepper | red pepper flakes | sugar | pita bread | lettuce | tomatoes | mayo marinade
+268,Biang Biang Noodles,bread flour | water | salt | neutral oil | soy sauce | oyster sauce | chinese black vinegar | ginger | napa cabbage | scallions | chinese chives | chinese celery | garlic | szechuan peppercorns | chinese red chili flakes | stir fry noodles
+269,Ropa Vieja,flank | cooking oil | salt | onions | red bell peppers | yellow bell peppers | garlic | black pepper | cumin | dried oregano | tomato puree | broth | white wine | bay leaves | olives | cilantro
+270,Gram's Breaded Pork Chops,pork chops | salt | flour | panko bread crumbs | eggs | milk | neutral oil | horseradish root | vinegar
+271,Za'atar Chicken & Rice Bowl with Pomegranate Seeds,chicken breasts | salt | cooking oil | za'atar | garam masala | sumac | cumin | basmati rice | water | chicken bouillon | onions | garlic | turmeric powder | pomegranate seeds | almonds | feta | parsley | red onions | yogurt | hot sauce
+272,Carne Guisada,chuck roast | roma tomatoes | water | garlic | poblano peppers | chicken bouillon cube | onions | cumin | chili powder | flour | salt | black pepper | tortillas | avocados | cilantro | white rice | beans
+273,High Protein Harissa Spiced Wrap,ground meat | harissa paste | salt | cumin seeds | lavash bread | pickled cabbage | yogurt | dried dill | black pepper | wraps
+274,Spicy Chicken Tenders (Popeye's Style),chicken tenderloins | milk | cream | hot sauce | salt | neutral oil | flour | cornstarch | cayenne pepper | smoked paprika | garlic powder | msg | ranch | pickled onions | pickles
+275,Chicken Posole Verde,tomatillos | poblano peppers | ghost pepper | serrano peppers | yellow onion | garlic | whole chicken | chicken stock | hominy | cumin | ground coriander | chili powder | salt | black pepper | pickled onions | jalapeños | crema | radishes thinly sliced | cilantro | cotija cheese | limes | pepitas
+276,Salsa Verde,tomatillos | serrano peppers | garlic | white onions | cilantro | salt | green sauces | condiments
+277,Whole Wheat Pasta with Italian Sausage & Broccolini,whole wheat spaghetti | italian sausage | parmigiano reggiano | broccolini bunch | salt | aleppo pepper
+278,Grilled Chicken Flatbread,flatbreads | grilled chicken breast | hummus | feta | pickles | cherry tomatoes | onions | low fat cream | mayonnaise | dried dill | black pepper | chicken thighs
+279,Shrimp Scampi Spaghetti,garlic | olive oil | red pepper flakes | spaghetti | shrimp | butter | lemon zest | lemon juice | parsley | salt | black pepper
+280,Chicken Satay,chicken thighs | coconut cream | red curry paste | curry powder | salt | peanut butter | water | sugar | soy sauce | vinegar
+281,The OG Chick-Fil-A Sandwich,chicken breasts | milk | pickle juice | eggs | neutral oil | flour | cornstarch | cayenne pepper | smoked paprika | onion powder | ground ginger | garlic powder | salt | mayonnaise | dijon mustard | honey | brioche bun | pickles
+282,Restaurant-Style Butter Chicken,chicken thighs | yogurt | salt | chili powder | cumin | garam masala | garlic | ginger | lime juice | cooking oil | tomatoes | cashews | onions | turmeric powder | water | heavy cream | butter | fenugreek leaves | basmati rice | naan | cilantro
+283,Chicken & Mozzarella Hoagie,bell peppers | onions | neutral oil | salt | chicken breasts | granulated garlic | aleppo pepper | hoagie rolls | roma tomatoes | mayonnaise | dried oregano
+284,Chicken Milanesa Torta,panko bread crumbs | flour | cornstarch | chicken breasts | eggs | salt | neutral oil | crema | chipotles in adobo | lime juice | refried black beans | salsa verde | bread roll | lettuce | red onions | avocados | pickled jalapeños | queso fresco
+285,Bean & Cheese Tostada,pinto beans | cooking oil | garlic | cumin seeds | smoked paprika | salt | lime juice | tostadas | monterey jack | cream | eggs | hot sauce | cilantro | lettuce | tomatoes | pickled onions
+286,Chicken Parmesan,chicken breasts | salt | panko bread crumbs | flour | eggs | dried oregano | garlic powder | neutral oil | whole peeled tomatoes | olive oil | celery | onions | carrots | sugar | basil leaves | parsley
+287,Spicy Caesar Salad Chicken Wrap,brussels sprouts | red onions | mayonnaise | greek yogurt | anchovies | calabrian chilies | garlic | lemon juice | spinach wrap | chicken breasts | mayo marinade | chicken thighs | wraps
+288,Scallion Pancakes,flour | water | scallions | sesame oil | cooking oil | chili crisp oil | soy sauce
+289,Homemade Big Mac,ground beef | pickles | american cheese | sesame seed bun | salt | lettuce | onions | mayonnaise | ketchup | dijon mustard | smoked paprika | onion powder | black pepper
+290,Steak & Corn Tostada,flank | salt | cooking oil | corn ear | lime juice | cilantro | smoked paprika | tostadas | crema | salsa verde | pickled onions | queso fresco
+291,Lahmacun,ground beef | flatbreads | cream | onions | parsley | salt | black pepper | paprika | cumin | tomatoes | lemons
+292,Breakfast Smash Burger,ground beef | garlic | salt | maple syrup | dried sage | black pepper | cooking oil | chili powder | eggs | american cheese | brioche bun | ketchup | pickled onions | low fat cream
+293,Peanut Banana Cocoa Crunch Bowl,greek yogurt | bananas | protein bars | peanuts | cocoa nibs bitter | honey
+294,Make Ahead Carnitas,pork shoulder | salt | water
+295,Spicy Beef Lo Mein,lo mein noodles | neutral oil | beef sirloin | light soy sauce | sugar | baking soda | corn starch | chili crisp oil | oyster sauce | dark soy sauce | beef bouillon paste | shallots | thai chilies | bell peppers | carrots | mushrooms | scallions | stir fry noodles
+296,Homemade McDonalds French Fries,russet potatoes | vinegar | neutral oil | salt
+297,Anything You Have Frittata,cooking oil | aromatics | raw vegetables | meat | eggs | milk | salt | cheese | herbs | cream | hot sauce
+298,Green Pozole,tomatillos | garlic | jalapeños | onions | cilantro | salt | black pepper | pork shoulder | hominy | water | bay leaves | oregano | cabbage | radishes | avocados | cotija cheese | lime juice
+299,Double Steak Chipotle Bowl,chuck roast | salt | cumin | paprika | lime juice spritz | rice | water | chicken bouillon | cooking oil | garlic | serrano peppers | roma tomatoes | avocados | cream | cilantro | lime juice | adobo seasoning | corn | shallots | black beans | smoked paprika | lettuce
+300,22 Minute Katsu Sandwich,panko bread crumbs | flour | cornstarch | eggs | chicken breasts | salt | neutral oil | sriracha | hoisin | ketchup | worcestershire sauce | soy sauce | mayonnaise | lemon juice | garlic | msg | shokupan | cabbage
+301,Rogan Josh,lamb stew meat | neutral oil | salt | bay leaves | cinnamon sticks | mace pieces | black cardamom pods | nutmeg | whole | kashmiri chili powder | cumin | fennel seeds | garam masala | ground ginger | asafetida | whole milk yogurt | water | basmati rice | roti flatbreads
+302,Weeknight Pan Pizza,bread flour | whole wheat flour | water | instant yeast | salt | whole peeled tomatoes | butter | olive oil | garlic | onions | calabrian chilies
+303,Grilled Chicken Cava Bowl,chicken thighs | salt | cumin | garlic powder | ground | agave syrup | msg | neutral oil | olive oil | vinegar | lemon juice | dried oregano | za'atar | black pepper | white rice | hummus | feta | cucumbers | tomatoes | pickled onions | arugula
+304,Refried Black Beans with Crispy Garlic Chips,black beans | chicken broth | salt | cooking oil | garlic | onions | epazote stalk | crema | cilantro | cotija cheese
+305,High Protein Baked Potato,russet potatoes | neutral oil | salt | ground beef | black beans | paprika | chili powder | cumin | granulated garlic | water | low fat cream | jalapeños | cilantro | lime wedges
+306,Lamb Kofta,ground lamb | garlic | parsley | kofta spice mix | cumin | chili powder | paprika | oregano | ground cinnamon | yogurt | lemon juice | salt | black pepper | sumac | lemon zest | lavash bread | tomatoes | arugula | pickled onions | feta
+307,Galette Complete,buckwheat flour | water | neutral oil | eggs | salt | black pepper | ham | butter | chives
+308,Crispy-ish Sweet Potato Fries,potatoes | vinegar | cooking oil | water | cornstarch | salt | black pepper
+309,Pide (Turkish Bread),milk | bread flour | instant yeast | sugar | water | olive oil | salt | egg yolks | nigella seeds | sesame seeds
+310,Chicken Chilaquiles Verdes,salsa verde | cilantro | chicken bouillon | water | cooked chicken | tortilla chips serving | greek yogurt | red onions | chicken thighs
+311,Keema Matar,cooking oil | mustard seeds | cumin | black peppercorns | turmeric powder | chili powder | garam masala | whole | bay leaves | ground cinnamon | onions | green chilies | salt | ground beef | water | frozen peas | lemon juice | basmati rice | cilantro | roti flatbreads to preference
+312,Jamaican Jerk Chicken Stew,garlic | shallots | habanero peppers | ginger | allspice | curry powder | chicken thighs | yukon gold potatoes | green peas | cooking oil | coconut milk | chicken bouillon powder | water | vinegar | dark soy sauce | toasted coconut powder | scallions | limes
+313,Rosemary Roasted Carrots,carrots | virgin olive oil | rosemary sprigs | salt | black pepper
+314,Healthier In-N-Out Double Double & Animal Style Fries,ground beef | salt | low fat american cheese | hamburger buns | lettuce | tomatoes | russet potatoes | vinegar | cooking oil | ketchup | mayonnaise | smoked paprika | onion powder | black pepper | onions
+315,The Chopped Cheese Blueprint,ground beef | salt | chicken bouillon | onions | american cheese | hoagie rolls | mayonnaise | lettuce | tomatoes
+316,Pambazo,bread roll | chorizo | yukon gold potatoes | guajillo peppers | garlic | chicken broth | salt | lettuce | cotija cheese | pickled onions | salsa verde
+317,Döner Kebab,chicken thighs | salt | cooking oil | rosemary | onion powder | garlic powder | dried parsley | dried oregano | cumin | paprika | msg | mayonnaise | yogurt | dried dill | dried mint | agave syrup | ketchup | sambal | harissa paste | purple cabbage | lemon juice | olive oil | tomatoes | iceberg lettuce | red onions | cucumbers | pide (turkish bread)
+318,5 Minute Muhammara Dip,roasted red pepper condiment | walnuts | breadcrumbs | olive oil | pomegranate molasses | salt | crackers | pita bread | raw vegetables
+319,Taco Bell's Crunchwrap Supreme at Home,cumin | chili powder | smoked paprika | garlic powder | onion powder | ground beef | salt | homemade taco seasoning | tomato paste | water | msg | corn tortillas | flour tortillas | cooking oil | tomatoes | lettuce | cream | hot sauce | lime juice | pickled onions
+320,Spicy Lamb Meatball Cava Bowl,ground lamb | harissa paste | salt | cumin | smoked paprika | garlic powder | msg | yogurt | virgin olive oil | dried dill | cucumbers | garlic | lemon juice | avocados | hummus | feta | pickled onions | mixed greens | lentils | tomatoes
+321,Bison Chopped Cheese w/ Peppers,baking spray | ground bison | salt | msg | garlic powder | onion powder | chili powder | smoked paprika | low fat american cheese | hoagie rolls | lettuce | tomatoes | hot cherry peppers | pepperoncini peppers
+322,Banh Mi Rice Bowl,boneless pork loin | garlic | soy sauce | fish sauce | rice vinegar | honey | thai chili flakes | neutral oil | carrots | jalapeños | vinegar | water | sugar | salt | kewpie mayo | sriracha | lime juice | jasmine rice | cucumbers | cilantro
+323,Enchiladas Rojas,ancho peppers | chipotles in adobo | garlic | onions | water | salt | chicken breasts | bay leaves | epazote leaves | corn tortillas | cooking oil | cotija cheese | crema | pickled onions | radishes
+324,Spicy Italian Chicken Sandwich,chicken breasts | salt | mayonnaise | cayenne pepper | garlic powder | dried oregano | ciabatta rolls | tomatoes | lettuce | pepperoncini peppers | balsamic vinegar
+325,"Steak, Mushroom, and Asparagus Bowl",flank | neutral oil | salt | soy sauce | hoisin | chili garlic paste | sesame seeds | shiitake mushrooms | garlic | asparagus | pickled ginger | scallions | kewpie mayo
+326,Oregano Crusted Chicken Thighs,chicken thighs | salt | dried oregano | neutral oil
+327,Steak Fajita Tacos,flank | salt | neutral oil | frozen corn | cherry tomatoes | red onions | serrano peppers | cilantro | smoked paprika | lime juice | black beans | garlic | cumin seeds | bell peppers | onions | chili powder | flour tortillas | queso fresco
+328,Pulled Pork & Slaw Baked Potato,russet potatoes | neutral oil | salt | pork chops | water | barbecue sauce | green cabbage | carrots | jalapeños | cilantro | mayonnaise | celery seeds | black pepper | vinegar | low fat cream
+329,Pork & Cabbage Gyoza,ground pork | cabbage | salt | msg | garlic | ginger | green thai chile | gyoza wrappers | water | soy sauce | rice vinegar | sesame oil | scallions
+330,High Protein 3 Cheese Pizza,bread flour | keto flour | salt | instant yeast | water | tomato sauce | mozzarella | ricotta | butter | black pepper | basil
+331,Chicken & Sausage Scarpariello,chicken thighs | italian sausage | olive oil | onions | bell peppers | garlic | peppadew peppers | broth | vinegar | sugar | black pepper | salt | parsley
+332,Beef Rendang,beef chuck | salt | neutral oil | garlic | shallots | ginger | turmeric powder | galangal root | cumin | ground coriander | coconut flakes | coconut milk | lemongrass stalks | makrut lime leaves
+333,Spinach Carbonara,water | cornstarch | spinach | garlic | olive oil | lemon juice | black pepper sprinkles | salt | spaghetti | basil
+334,Gram’s Stuffing,butter | celery | carrots | onions | sage | thyme | black pepper | salt | potato bread | eggs | milk
+335,Crispy Buffalo Chicken Pizza,bread flour | water | instant yeast | salt | neutral oil | chicken breasts | cream | mayonnaise | blue cheese | black pepper cranks | dried dill | lemon juice | low moisture mozzarella | monterey jack | shallots | buffalo sauce
+336,Chilaquiles,roma tomatoes | dried arbol chiles | jalapeños | garlic | white onions | salt | eggs | tortilla chips | cooking oil | chicken broth | queso fresco | crema | pickled onions | cilantro | chicken thighs
+337,Dinner Rolls (Gram's Buns),all purpose flour | milk | butter | sugar | instant yeast | salt | eggs | rosemary
+338,Aglio e Olio,spaghetti | virgin olive oil | garlic | red pepper flakes | parsley
+339,Stock & Broth Framework,water | meat | bones | vegetable scraps | onions | garlic | scallions | carrots | celery | bay leaves | whole dried spices | ginger | mushrooms
+340,Chicken Hummus Wrap,chicken breasts | salt | cooking oil | mayonnaise | cream | lemon juice | za'atar | red pepper flakes | flatbreads | hummus | pepperoncini peppers | lettuce | cherry tomatoes | red onions | wraps
+341,Beer & Vodka Batter Chicken Nuggets,chicken thighs | salt | msg | flour | corn starch | baking powder | cayenne pepper | garlic powder | smoked paprika | beer | vodka alcohol | neutral oil | dijon mustard | mayonnaise | honey | horseradish condiment
+342,Hot Honey Buffalo Grilled Chicken Sandwich,chicken breasts | salt | cooking oil | hot sauce | mayonnaise | hot honey | sandwich buns | pickles | lettuce | tomatoes
+343,Spicy Garlicky Bison Meatball & Rice Bowl,ground bison | salt | garlic | harissa paste | yogurt | garlic powder | dried oregano | lime juice | cooked rice | tomatoes | lettuce | pickled onions | pickled beets
+344,Orzo Pasta Salad,orzo | chickpeas | feta | cherry tomatoes | brussel sprouts | red onions | parsley | black pepper | salt | olive oil | rice vinegar | dijon mustard | garlic | oregano | sumac
+345,Harissa Spiced Lamb Kebabs,ground lamb | harissa paste | salt | cumin | red pepper flakes | non cooking spray | pita bread | tomatoes | cucumbers | yogurt | feta
+346,Chicken Tinga Quesadilla,whole peeled tomatoes | chipotles in adobo | garlic | onions | bay leaves | dried oregano | sugar | salt | cooking oil | chicken breasts | corn tortillas | lettuce | tomatoes | pickled onions | cream | poblano hot sauce | lime juice
+347,Huevos Rancheros,corn tortillas | eggs | neutral oil | cilantro | cotija cheese | pickled onions | plum tomatoes | serrano peppers | garlic | white onions | salt | lime juice | pinto beans | cumin seeds
+348,Cumin Garlic Pinto Beans,cooking oil | garlic | cumin seeds | pinto beans | salt | lime juice | lime zest
+349,Saffron Rice,basmati rice | water | saffron | butter | salt
+350,Make Ahead McDonald's Style Hash Browns,russet potatoes | cornstarch | neutral oil | salt
+351,McDonald’s Snack Wrap,neutral oil | chicken tenders | flour | corn starch | salt | black pepper | milk | cream | mayonnaise | dill | pickle juice | tortillas | chicken thighs | wraps
+352,Ground Chicken and Crispy Potato Bowl,russet potatoes | salt | smoked paprika | garlic powder | neutral oil | chicken breasts | cumin | chili powder | lettuce | pico de gallo | pickled onions
+353,Pakistani Chicken Karahi,chicken thighs | salt | cooking oil | garlic | ginger | tomatoes | cumin | garam masala | kashmiri chili powder | ground coriander | turmeric powder | black pepper | green chilies | butter | cilantro
+354,Sunday Roasted Chicken,chicken whole | salt | black pepper | neutral oil | yogurt | olive oil | mayonnaise | jalapeños | cilantro | lime juice
+355,Roasted Green Hot Sauce,white vinegar | habanero peppers | garlic | poblano peppers | sugar | water | salt | green sauces | condiments
+356,Blackened Chicken with Green Goddess Dressing,greek yogurt | mayonnaise | red onions | lemon juice | white vinegar | hot sauce | cilantro | parsley | basil | dill | garlic | black pepper | salt | chicken breasts | smoked paprika | garlic powder | onion powder | dried thyme | neutral oil | romaine lettuce | potatoes | chickpeas | carrots | almonds | pickled onions | goat cheese | mayo marinade
+357,Lemongrass Banh Mi,chicken breasts | soy sauce | ponzu | fish sauce | sugar | thai chili flakes | lemongrass stalk | shallots | pickled carrots | cucumbers | baguettes | cilantro | kewpie mayo | sriracha | maggi seasoning
+358,The Ultimate BLT,sandwich bread | bacon | heirloom tomato | romaine lettuce | mayonnaise | vinegar | salt | black pepper
+359,High Protein Gochujang Noodles,vite ramen | eggs | cooking oil | gochujang | kewpie mayo | chinese black vinegar | scallions | black sesame seeds | stir fry noodles
